@@ -14,7 +14,7 @@ Notes:
 ⚠️This integration uses the EZVIZ Cloud API, so it will not work offline!
 
 ## Setup
-1. Clone this repo into your Home Assistant's `config/custom_components` directory (`git clone br0kenpixel/homeassistant-ezplug`). If you don't have a `custom_components` directory, create it. Make sure you put the files in an `ezplug` directory. Don't put the files directly into the `custom_components` directory. (See directory structure below)
+1. Clone this repo into your Home Assistant's `config/custom_components` directory (`git clone delfigamer11/haezplug`). If you don't have a `custom_components` directory, create it. Make sure you put the files in an `ezplug` directory. Don't put the files directly into the `custom_components` directory. (See directory structure below)
 2. Add the following to your Home Assistant configuration file:
 ```
 switch:
