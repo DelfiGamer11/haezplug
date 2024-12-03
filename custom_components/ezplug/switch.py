@@ -158,7 +158,7 @@ def setup_platform(hass, config, add_devices, discovery_info=None):
         _LOGGER.error("Missing email, password configuration")
         return False
     _LOGGER.info(" === === === EZPlug === === ===")
-    _LOGGER.info("Made by: delfigamer11")
+    _LOGGER.info("Made by: lele")
     client = EZClient(email, password)
     devs = client.getAllPlugs()
     for dev in devs:
