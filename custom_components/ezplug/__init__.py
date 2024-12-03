@@ -8,7 +8,7 @@ def setup(hass, config):
     hass.states.set("ezplug.integration", "Ready")
 
     _LOGGER.info("EZPLUG Ready!")
-    _LOGGER.info("Made by br0kenpixel")
+    _LOGGER.info("Made by lele")
 
     # Return boolean to indicate that initialization was successful.
     return True
