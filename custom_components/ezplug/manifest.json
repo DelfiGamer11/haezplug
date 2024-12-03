@@ -4,7 +4,7 @@
   "documentation": "https://www.example.com",
   "dependencies": [],
   "version": "1.0.0",
-  "codeowners": ["br0kenpixel"],
+  "codeowners": ["delfigamer11"],
   "requirements": ["pyezviz==0.2.0.5"],
   "iot_class": "cloud_polling"
 }
