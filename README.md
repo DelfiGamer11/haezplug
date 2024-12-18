@@ -2,7 +2,7 @@
 This custom integration allows you to detect and control your EZVIZ Smart Plugs.
 The built-in EZVIZ integration for Home Assistant does not supprt smart plugs, so I decided to make my own integration.
 
-Tested with: T30 plug
+Testato con: Presa T30
 
 Notes:
 - Turning the plugs on/off is quick
